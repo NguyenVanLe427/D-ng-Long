@@ -1,0 +1,1 @@
+print("Khi nhấn vào sẽ nổ!!")
