@@ -5,4 +5,4 @@ print("1x2=2")
 print("...")
 print("1x9=9")
 print("1x10=10")
-ggyf
+print("Không có gì...")
